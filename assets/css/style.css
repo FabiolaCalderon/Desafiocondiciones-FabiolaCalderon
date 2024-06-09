@@ -1,0 +1,78 @@
+/*ejericio 1*/
+.body1{
+    margin: 0;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
+
+img{
+    width: 350px;
+    height:350px;
+}
+
+.bordeperrito{
+    border: 2px solid red;
+}
+
+
+
+
+
+
+/*ejercicio 2*/
+
+.body2{
+    margin: 0;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.imgsti{
+    width: 200px;
+    height:200px;
+}
+
+.cuadro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+button{
+    margin: 10px;
+ 
+}
+
+.resultado{
+    font-size: 20px;
+}
+
+
+/*EJERCICIO 3*/
+
+.body3{
+    margin: 0;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.resultado{
+    font-size: 20px;
+}
